@@ -1,0 +1,21 @@
+.xs{
+width: 250px;
+}
+.s{
+width: 350px;
+}
+.m{
+width: 450px;
+}
+.l{
+width: 550px;
+}
+.xl{
+width:650px;
+}
+th, td{
+    border:1px solid black;
+}
+table{
+    width:5000px;
+}
